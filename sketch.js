@@ -146,6 +146,8 @@ function draw() {
     text("1. Use full screen to have better experience.",displayWidth-1200,displayHeight-300);
     text("2. Drag the mouse left or right to move your jet.",displayWidth-1200,displayHeight-280);
     text("3. Press 'Spacebar' to shoot your enemies.",displayWidth-1200,displayHeight-260);
+    text("4. You can win the game only after destroying enemies boss ship.",displayWidth-1200,displayHeight-240);
+    text("5. If your score is 100 then the boss will meet you.",displayWidth-1200,displayHeight-220);
 
     text("Story :-",displayWidth-400,displayHeight-650);
     text("The Earth is in danger and you have to protect your planet.",displayWidth-400,displayHeight-630);
